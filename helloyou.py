@@ -198,6 +198,14 @@ elif antwoord == "a":
                             printsleep(1.0,"Nu lachen de octopus monsters je uit terwijl een haai aan je knabbelt.")
                             printsleep(1.0,"\nYOU DIED,")
                             printsleep(1.0,"probeer volgende keer een andere keuze.")
+                        elif antwoord == "c":
+                            printsleep(1.0,"\n\nJe vindt een mes net zoals een mes van cs:go.")
+                            printsleep(1.0,"Je gaat hitman mode en je snijdt de eerste octopus monsters nek helemaal open en gooit zijn lichaam van boord.")
+                            printsleep(1.0,"De tweede monster komt om te kijken waar de eerste monster is gebleven.")
+                            printsleep(1.0,"Dat is het moment waar je jouw arm om hem heen doet en ook zijn nek open snijdt.")
+                            printsleep(1.0,"Je stapt in de reddingboot en wanneer je de boot heb losgemaakt komen nog meer monster,")
+                            printsleep(1.0,"Helaas voor hun zijn ze te laat en ben je weg.")
+                            printsleep(1.0,"\nYOU GOT THE MAIN ENDING")
                 elif antwoord == "b":
                     printsleep(1.0,"\n\nJe zoekt rond in de controle en vind een blauwdruk van het schip.")
                     printsleep(1.0,"Op de blauwdruk zie welke richting je op moet gaan om bij de reddingsboten te komen.")
